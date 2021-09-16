@@ -1,6 +1,11 @@
 # Requirements 
  ## Introduction
  The Primary purpose of  SEAT HEATER in the car is to warm the driver seat in extreme cold conditions,They will also dissipate heat into the air, which will warm up your entire car.
+ ## Research
+
+## Key Features of Seat Heater
+* It can make much more comfortable in the Winter.
+* When you feel the seat is getting too hot you can shut it off.
  
 ![image](https://user-images.githubusercontent.com/89621312/133552657-4ece0a4f-3b66-4ff8-b9a8-bbbfd8c98de8.png)
 

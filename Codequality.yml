@@ -1,0 +1,15 @@
+name: cppcheck
+on:
+push:
+branches: [main]
+pull_request:
+branches: [main]
+jobs
+buld:
+runs-on: ubuntu-latest
+steps:
+- uses: actions/checkout@v2
+- name: get_cppcheck
+run: sudo apt-get install cppcheck
+- name: code quality
+run: make -C 3_Implementation

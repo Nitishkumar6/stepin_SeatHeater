@@ -22,3 +22,21 @@ The system ensures overall student development, along with eliminating the tedio
 This software can be used all across the globe.
 ## How:
 Enhance the efficiency of schools in meeting their requirements and capabilities. Communicate the key information and advice for good ecosystem.
+
+# Detail Requirements
+## High level Requirements
+|Id     | Description                                               | Status    |
+|:---   |:----------------------------------------------------------|:----------|
+|HLR_1  | Seat Switch will check if the driver is seated or not     |Implemented|
+|HLR_2  | Temperature Sensor                                        |Implemented|
+|HLR_3  | Display CDD_CRO  Will display the temperature value       |Implemented|
+|HLR_4  | Led  Shows the driver is seated                           |Implemented|
+
+## Low level Requirements
+|Id     | ADC Value      |Temp   | Status     | 
+|:----- |:---------------|:----  |:---------- |
+|LLR_1  | 0-200          | 20°C  | Display    |
+|LLR_2  | 210-500        | 25°C  | Display    |
+|LLR_3  | 510-700        | 29°C  | Display    |
+|LLR_4  | 710-1024       | 33°C  | Display    |
+|

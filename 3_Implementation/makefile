@@ -4,9 +4,9 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/A1.c\
-src/A2.c\
-src/A3.c
+src/Act1.c\
+src/Act2.c\
+src/Act3.c
 
 # All header file paths
 INC = -I inc

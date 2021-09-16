@@ -8,3 +8,5 @@
 * ![Screenshot (30)](https://user-images.githubusercontent.com/89621312/133583380-76f50bcf-913d-457e-ab3c-e9a58b0f1f35.png)
 
 # snapshot of Activity 3 
+* ![IMG_20210916_233421](https://user-images.githubusercontent.com/89621312/133662726-e0673cbf-71c4-46a4-bbe4-b99114142367.jpg)
+

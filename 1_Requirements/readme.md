@@ -8,7 +8,8 @@
 * When you feel the seat is getting too hot you can shut it off.
 * It  displays the temperature of seat. 
 * The seat heats up only when the driver is seated .
-
+* It is best for european countries
+* Low cost System
 
  ## Swot analysis
 ![image](https://user-images.githubusercontent.com/89621312/133552657-4ece0a4f-3b66-4ff8-b9a8-bbbfd8c98de8.png)

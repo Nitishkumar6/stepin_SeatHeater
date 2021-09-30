@@ -18,7 +18,7 @@
 ## Who: 
 This software can be used in all cars.
 ## What:
-The system ensures 
+The system ensures the driver comforts
 ## Where:
 This feature can be used all across the European countries.
 ## How:

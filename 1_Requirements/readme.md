@@ -16,13 +16,13 @@
 
 ## 4W's and 1'H
 ## Who: 
-This software can be used in all schools, colleges and universities.
+This software can be used in all cars.
 ## What:
-The system ensures overall student development, along with eliminating the tedious admin tasks. It is easy to maintain and manage an ERP system than a hand written file.
+The system ensures 
 ## Where:
-This software can be used all across the globe.
+This feature can be used all across the European countries.
 ## How:
-Enhance the efficiency of schools in meeting their requirements and capabilities. Communicate the key information and advice for good ecosystem.
+Enhance the efficiency of seat heater in car and meeting their requirements and capabilities.
 
 # Detail Requirements
 ## High level Requirements
